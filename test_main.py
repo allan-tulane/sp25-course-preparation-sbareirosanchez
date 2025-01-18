@@ -7,4 +7,4 @@ def test_one():
 	assert myfunction(6) == -1
 
 def test_two():
-	assert myfunction(3+4) == 7
+	assert myfunction(6) == 6
